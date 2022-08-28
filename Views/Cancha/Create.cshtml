@@ -1,0 +1,52 @@
+@model MvcCancha.Models.Cancha
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Cancha</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nombre" class="control-label"></label>
+                <input asp-for="nombre" class="form-control" />
+                <span asp-validation-for="nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="disciplina" class="control-label"></label>
+                <input asp-for="disciplina" class="form-control" />
+                <span asp-validation-for="disciplina" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cantidadEspectadores" class="control-label"></label>
+                <input asp-for="cantidadEspectadores" class="form-control" />
+                <span asp-validation-for="cantidadEspectadores" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="medidas" class="control-label"></label>
+                <input asp-for="medidas" class="form-control" />
+                <span asp-validation-for="medidas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="escenarioId" class="control-label"></label>
+                <select asp-for="escenarioId" class ="form-control" asp-items="ViewBag.escenarioId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

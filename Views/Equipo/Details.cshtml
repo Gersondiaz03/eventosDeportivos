@@ -1,0 +1,36 @@
+@model MvcEquipo.Models.Equipo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Equipo</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.deporte)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.deporte)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.patrocinador)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.patrocinador.apellido)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.equipoId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

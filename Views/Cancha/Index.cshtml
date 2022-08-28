@@ -1,0 +1,59 @@
+@model IEnumerable<MvcCancha.Models.Cancha>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.disciplina)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidadEspectadores)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.medidas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.escenario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.disciplina)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadEspectadores)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.medidas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.escenario.direccion)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.canchaId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.canchaId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.canchaId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

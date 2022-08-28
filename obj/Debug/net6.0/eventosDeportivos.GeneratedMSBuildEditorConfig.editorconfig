@@ -1,0 +1,204 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = eventosDeportivos
+build_property.RootNamespace = eventosDeportivos
+build_property.ProjectDir = c:\Users\gerso\Documents\VSC ASP.NET Projects\eventosDeportivos\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\gerso\Documents\VSC ASP.NET Projects\eventosDeportivos
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Cancha/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2hhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Cancha/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2hhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Cancha/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2hhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Cancha/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2hhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Cancha/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2hhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/colegioArbitral/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29sZWdpb0FyYml0cmFsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/colegioArbitral/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29sZWdpb0FyYml0cmFsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/colegioArbitral/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29sZWdpb0FyYml0cmFsXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/colegioArbitral/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29sZWdpb0FyYml0cmFsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/colegioArbitral/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29sZWdpb0FyYml0cmFsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Deportista/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwb3J0aXN0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Deportista/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwb3J0aXN0YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Deportista/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwb3J0aXN0YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Deportista/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwb3J0aXN0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Deportista/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwb3J0aXN0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Equipo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Equipo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Equipo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Equipo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Equipo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Escenario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjZW5hcmlvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Escenario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjZW5hcmlvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Escenario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjZW5hcmlvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Escenario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjZW5hcmlvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Escenario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjZW5hcmlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Municipio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGlvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Municipio/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGlvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Municipio/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGlvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Municipio/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGlvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Municipio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVuaWNpcGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Patrocinador/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Patrocinador/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Patrocinador/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Patrocinador/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Patrocinador/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Torneo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9ybmVvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Torneo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9ybmVvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Torneo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9ybmVvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Torneo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9ybmVvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Torneo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9ybmVvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/gerso/Documents/VSC ASP.NET Projects/eventosDeportivos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2keccvwxdl
